@@ -1,0 +1,19 @@
+{
+  "name": "btc17-bcats",
+  "version": "1.0.0",
+  "description": "Blockchain Car Anti-fraud Trading System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romalice1/BTC17-BCATS.git"
+  },
+  "author": "Romalice I, Roger M, Sylvia M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romalice1/BTC17-BCATS/issues"
+  },
+  "homepage": "https://github.com/romalice1/BTC17-BCATS#readme"
+}
