@@ -2,7 +2,7 @@
   "name": "btc17-bcats",
   "version": "1.0.0",
   "description": "Blockchain Car Anti-fraud Trading System",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
